@@ -1,13 +1,13 @@
 # BIT-2 PROYECTO CLASE BIT G-10
 
-## Bienvenidos a mi proyecto calificable, en este, sigo implementando herramientas que he aprendido a usar en mi Bootcamp en BIT, 
+## Bienvenidos a mi proyecto, en este, sigo implementando herramientas que he aprendido a usar en mi Bootcamp en BIT, 
 
 ## Lenguajes como:
 * - HTML 
 * - CSS
 * - JAVASCRIPT.
 
-Y tambien la implementación de más temas JavaScript tales como:
+Tambien la implementación de más temas JavaScript tales como:
 
 * - CICLOS
 * - CONDICIONALES
