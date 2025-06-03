@@ -66,3 +66,17 @@ padding: 0;;
     flex-direction: column; 
     gap: 10px; 
 }
+
+.fotos{
+    width: 100px;
+    align-items: center;
+    text-align: center;
+    margin: auto;
+    margin-top: 30px;
+    display: flexbox;
+    gap: 1px;
+}
+
+header{
+    text-align: center;
+}
