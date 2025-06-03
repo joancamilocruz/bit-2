@@ -1,0 +1,68 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+h1{
+    font-size: 50px;
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+h2{
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.imagenesAmigos{
+    width: 300px;
+    border: 1px solid black;
+    text-align: center;
+    align-items: center;
+    border-radius: 10%;
+    margin-bottom: 0;
+}
+
+.nombre-estudiantes{
+    font-size: 12px;
+    border: 1px dotted black;
+    border-radius: 4%;
+    background-color: white;
+    padding: 5px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.github{
+    font-size: 20px;
+}
+
+.intensity{
+    color: red;
+    background-color: rgb(197, 177, 177);
+    margin-top: 0;
+}
+
+.proyectos{
+    background-color: rgb(189, 209, 209);
+}
+
+.card{
+    margin-bottom: 0;
+padding: 0;;
+}
+
+.tamañoDiv {
+    width: 200px;
+    height: 600px;
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+    border: 1px solid black;
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column; 
+    gap: 10px; 
+}
